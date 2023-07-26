@@ -1,3 +1,4 @@
+#![feature(mixed_integer_ops)]
 #![doc = include_str ! ("../README.md")]
 extern crate core;
 extern crate strum;
